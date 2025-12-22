@@ -2,7 +2,7 @@
 ---
 I am a Subsurface Senior Data Management Analyst with over a decade of experience in digital transformation, data governance, data science, and AI/ML applications for the oil and gas industry.
 
-Connect with me through: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ade-anggi-naluriawan-santoso-83493a81/))
+Connect with me through: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ade-anggi-naluriawan-santoso-83493a81/)
 
 ---
 
